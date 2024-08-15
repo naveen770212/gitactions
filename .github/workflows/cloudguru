@@ -1,0 +1,7 @@
+ name : CI
+ jobs:
+  runs-on :  self-hosted-Linux-x64
+  name : print output
+  run : |
+  echo " github actions expert"
+  echo " sure I can"  
